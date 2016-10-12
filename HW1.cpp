@@ -23,4 +23,4 @@ int main(void)
     printf("i=%d\n", i-1);
     printf("(e^x)_i =%lf\n", e1);
     system("pause");
-}
+}abelkk
